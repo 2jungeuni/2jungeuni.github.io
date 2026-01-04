@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jelee.github.io/sitemap.xml
+Sitemap: https://2jungeuni.github.io/sitemap.xml
