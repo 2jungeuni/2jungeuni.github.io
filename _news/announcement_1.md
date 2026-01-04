@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-09-19 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+:tada: [Excellence Award in the Optimization Grand Challenge 2025](https://n.news.naver.com/mnews/article/421/0008510406?sid=105)
