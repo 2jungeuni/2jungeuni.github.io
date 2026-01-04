@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:bell: Selected as a fully funded Visiting Graduate Researcher, supported by KIAT 
+:bell: Selected as a fully funded Visiting Graduate Researcher, supported by KIAT
