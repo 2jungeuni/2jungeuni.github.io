@@ -26,6 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Ph.D. student in Electrical Engineering at Ulsan National Institute of Science and Technology (UNIST), under the supervision of [Prof. Jeong hwan Jeon](https://rml.unist.ac.kr).
+I am a Ph.D. student in Electrical Engineering at Ulsan National Institute of Science and Technology (UNIST), under the supervision of [Prof. Jeong hwan Jeon](https://rml.unist.ac.kr). I am a currently a visiting graduate researcher at UCLA, advised by [Prof. Youngseo Kim](https://sites.google.com/cornell.edu/youngseokim/human-lab).
 
 My research focuses on multi-agent coordination, reinforcement learning, optimization, and safe control for large-scale mobility systems. I aim to bridge theoretical foundation in optimization with practical reinforcement learning frameworks to enable sustainable and scalable autonomous mobility systems.
