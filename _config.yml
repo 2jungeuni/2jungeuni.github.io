@@ -162,6 +162,9 @@ collections:
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
+# Include documents with future dates (e.g. news dated in 2026)
+future: true
+
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
