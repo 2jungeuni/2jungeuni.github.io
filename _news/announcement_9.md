@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:bell: I'll be at ACC (May, New Orleans 🇺🇸), L4DC (June, LA 🇺🇸), INFORMS TSL (July, Cambridge, USA), and IJCAI (Aug, Bremen 🇩🇪). If you're around, let's grab a coffee ☕️
+:bell: I'll be at ACC (May, New Orleans), L4DC (June, LA), INFORMS TSL (July, Cambridge, USA), and IJCAI (Aug, Bremen). If you're around, let's grab a coffee ☕️
