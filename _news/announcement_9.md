@@ -1,6 +1,6 @@
 ---
 layout: post
-date: Upcoming
+date: 2026-08-21 00:00:00-0000
 inline: true
 related_posts: false
 ---
