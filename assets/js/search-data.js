@@ -53,7 +53,7 @@ ninja.data = [{
           title: ':tada: Our paper, “STAR: Spatio-Temporal Attention Rebalancing for Eco-Friendly Autonomous Mobility-on-Demand Systems,” has...',
           description: "",
           section: "News",},{id: "news-bell-i-ll-be-at-acc-may-new-orleans-l4dc-june-la-informs-tsl-july-cambridge-usa-and-ijcai-aug-bremen-if-you-re-around-let-s-grab-a-coffee-️",
-          title: ':bell: I’ll be at ACC (May, New Orleans 🇺🇸), L4DC (June, LA 🇺🇸),...',
+          title: ':bell: I’ll be at ACC (May, New Orleans), L4DC (June, LA), INFORMS TSL...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
